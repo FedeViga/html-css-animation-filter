@@ -96,7 +96,7 @@
 }
 
 .ex-7-img:hover {
-    filter: grayscale(1);
+    filter: grayscale(.7) sepia(.5);
 }
 /* fine es 7 */
 
@@ -108,7 +108,7 @@
 }
 
 .ex-8-img:hover {
-    filter: blur(1px) sepia(.5);
+    filter: grayscale(.7) sepia(.5);
     border-radius: 10px;
 }
 /* fine es 8 */
