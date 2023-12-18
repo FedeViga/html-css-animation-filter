@@ -91,6 +91,12 @@
 /* es 7 */
 .ex-7-img {
     width: 500px;
+
+    transition: 2s;
+}
+
+.ex-7-img:hover {
+    filter: grayscale(1);
 }
 /* fine es 7 */
 
